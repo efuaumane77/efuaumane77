@@ -20,7 +20,7 @@ I got into software development because I saw it for what it really is — **art
 ### 🎓 About Me
 Currently a Computer Science student at York University, building full-stack applications and growing my curiosity for **cloud computing and AI.**
 
-###💻 Tech Stack
+### 💻 Tech Stack
 - Languages: Java, Python, HTML, CSS, Javascript, SQL, C, PHP
 - Tools and Frameworks:  Spring Boot, React, 
 - Databases: MySQL, PostgreSQL, SQLite
