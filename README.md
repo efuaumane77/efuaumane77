@@ -20,6 +20,7 @@ I got into software development because I saw it for what it really is — **art
 ### 🎓 About Me
 Currently a Computer Science student at York University, building full-stack applications and growing my curiosity for **cloud computing and AI.**
 
+---
 ## 💼 Experience
 
 **Work-Integrated Learner — Riipen** 
@@ -33,6 +34,7 @@ as part of a 16-person cross-functional development team.
 - Developed React frontend components integrated with backend APIs
 - Produced UML and sequence diagrams to support sprint planning and agile team coordination
 
+---
 ### 💻 Tech Stack
 - Languages: Java, Python, HTML, CSS, Javascript, SQL, C, PHP
 - Tools and Frameworks:  Spring Boot, React, 
