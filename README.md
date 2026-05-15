@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I got into software development because I saw it for what it really is — art. You start with an idea living only in your head and build it into something anyone in the world can use. That never gets old to me.
+I got into software development because I saw it for what it really is — **art**. You start with an idea living only in your head and build it into something **anyone in the world can use**. That never gets old to me.
+
+### 🎓 About Me
+Currently a Computer Science student at York University, building full-stack applications and growing my curiosity for **cloud computing and AI.**
+
+###💻 Tech Stack
+- Languages: Java, Python, HTML, CSS, Javascript, SQL, C, PHP
+- Tools and Frameworks:  Spring Boot, React, 
+- Databases: MySQL, PostgreSQL, SQLite
 
