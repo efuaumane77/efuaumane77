@@ -1,5 +1,11 @@
 ## Hi, I'm Efua Umane 👋
 
+<div align="center">
+
+# Hi, I'm Efua Umane 👋
+
+</div>
+
 <!--
 **efuaumane77/efuaumane77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
