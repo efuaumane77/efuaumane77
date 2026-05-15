@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Efua Umane 👋
+# Hi, I'm Efua Umane <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 </div>
 
