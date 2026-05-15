@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
-</center>
+</div>
 
 I got into software development because I saw it for what it really is — **art**. You start with an idea living only in your head and build it into something **anyone in the world can use**. That never gets old to me.
 
