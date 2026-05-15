@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 I got into software development because I saw it for what it really is — **art**. You start with an idea living only in your head and build it into something **anyone in the world can use**. That never gets old to me.
 
+![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
 ### 🎓 About Me
 Currently a Computer Science student at York University, building full-stack applications and growing my curiosity for **cloud computing and AI.**
 
