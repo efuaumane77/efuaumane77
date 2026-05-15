@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=900&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=400&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
 </div>
 
