@@ -1,5 +1,3 @@
-## Hi, I'm Efua Umane 👋
-
 <div align="center">
 
 # Hi, I'm Efua Umane 👋
