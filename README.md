@@ -1,4 +1,4 @@
-##                                             Hi I'm Efua Umane 👋
+## Hi, I'm Efua Umane 👋
 
 <!--
 **efuaumane77/efuaumane77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I got into software development because I saw it for what it really is — art. You start with an idea living only in your head and build it into something anyone in the world can use. That never gets old to me.
+
