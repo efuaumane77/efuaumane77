@@ -52,3 +52,28 @@ as part of a 16-person cross-functional development team.
 - Tools and Frameworks:  Spring Boot, React, 
 - Databases: MySQL, PostgreSQL, SQLite
 
+---
+## 📌 Featured Projects
+### Skincare Ingredient Analyzer | React, Java, MySQL				          
+April 2026 - Present
+
+- Building a mobile app that uses OCR to extract and parse skincare ingredient lists, flagging harmful ingredients and allergens.
+- Developing a personalized recommendation engine that tailors product feedback based on skin type, allergies, and user profile.
+- Designing a REST API in Java Spring Boot connecting OCR input, ingredient analysis, and a MySQL ingredient database.
+
+### Restaurant Management System | Java, Spring Boot				      
+Nov 2025 - Dec 2025
+
+- Designed modular backend components using OOP principles to separate business logic from data handling.
+- Implemented an encryption-based feature to secure stored data using secure design principles.
+- Debugged and refactored core application logic to improve reliability and reduce failure points.
+- Wrote JUnit unit tests covering edge cases to ensure component reliability across development cycles.
+
+### EcoLife | HTML, CSS, Javascript						   
+Feb 2025 - April 2025
+
+- Built a multi-page sustainability website featuring a carbon footprint calculator, sign-up page, and testimonials.
+- Designed a responsive UI with intuitive navigation and consistent visual hierarchy across all pages.
+- Developed an interactive carbon footprint calculator using JavaScript to compute and display user results.
+- Collaborated via GitHub for version control, managing design iterations and merging team contributions across sprints.
+
