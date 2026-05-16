@@ -49,7 +49,7 @@ as part of a 16-person cross-functional development team.
 ---
 ## 💻 Tech Stack
 - Languages: Java, Python, HTML, CSS, Javascript, SQL, C, PHP
-- Tools and Frameworks:  Spring Boot, React, 
+- Tools and Frameworks:  Spring Boot, React 
 - Databases: MySQL, PostgreSQL, SQLite
 
 ---
