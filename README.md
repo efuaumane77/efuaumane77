@@ -35,9 +35,9 @@ Currently a Computer Science student at York University, building full-stack app
 ---
 ## 💼 Experience
 
-**Riipen**
+### Riipen
 **Work-Integrated Learner** 
-*Feb 2026 – Apr 2026*
+Feb 2026 – Apr 2026
 
 Built and contributed to a microservice-based entrepreneurial learning platform
 as part of a 16-person cross-functional development team.
@@ -56,7 +56,7 @@ as part of a 16-person cross-functional development team.
 ---
 ## 📌 Featured Projects
 ### Skincare Ingredient Analyzer | React, Java, MySQL				          
-April 2026 - Present
+Apr 2026 - Present
 
 - Building a mobile app that uses OCR to extract and parse skincare ingredient lists, flagging harmful ingredients and allergens.
 - Developing a personalized recommendation engine that tailors product feedback based on skin type, allergies, and user profile.
@@ -71,7 +71,7 @@ Nov 2025 - Dec 2025
 - Wrote JUnit unit tests covering edge cases to ensure component reliability across development cycles.
 
 ### EcoLife | HTML, CSS, Javascript						   
-Feb 2025 - April 2025
+Feb 2025 - Apr 2025
 
 - Built a multi-page sustainability website featuring a carbon footprint calculator, sign-up page, and testimonials.
 - Designed a responsive UI with intuitive navigation and consistent visual hierarchy across all pages.
