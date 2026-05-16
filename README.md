@@ -37,6 +37,7 @@ Currently a Computer Science student at York University, building full-stack app
 
 ### Riipen
 **Work-Integrated Learner** 
+
 Feb 2026 – Apr 2026
 
 Built and contributed to a microservice-based entrepreneurial learning platform
