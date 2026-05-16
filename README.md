@@ -77,3 +77,10 @@ Feb 2025 - Apr 2025
 - Developed an interactive carbon footprint calculator using JavaScript to compute and display user results.
 - Collaborated via GitHub for version control, managing design iterations and merging team contributions across sprints.
 
+---
+## Currently Learning
+
+- AWS
+- Cloud Deployment
+- AI Integration
+
