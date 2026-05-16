@@ -80,7 +80,7 @@ Feb 2025 - Apr 2025
 ---
 ## Currently Learning
 
-- AWS
-- Cloud Deployment
-- AI Integration
+- AI Integration — embedding AI-powered features into full-stack applications
+- CI/CD — learning to automate builds and deployments with GitHub Actions
+- OCR & computer vision — actively applying to my Skincare Ingredient Analyzer project
 
