@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&speed=15&color=FF69B4&width=270&lines=Welcome+to+my+Github;Full+Stack+Developer;Creative+Perfectionist;Code+is+my+Canvas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&speed=15&color=FF69B4&width=270&lines=Welcome+to+my+Github;Code+is+my+Canvas;Full+Stack+Developer;Creative+Perfectionist)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,7 +49,8 @@ as part of a 16-person cross-functional development team.
 ---
 ## 💻 Tech Stack
 - Languages: Java, Python, HTML, CSS, Javascript, SQL, C, PHP
-- Tools and Frameworks:  Spring Boot, React, Git/GitHub, IntelliJ, VSCode, Postman, Docker, GitHub Actions, LucidChart, JUnit 
+- Tools:Git/GitHub, IntelliJ, VSCode, Postman, Docker, GitHub Actions, LucidChart, JUnit
+- Frameworks:  Spring Boot, React, Junit
 - Databases: MySQL, PostgreSQL, SQLite
 
 ---
