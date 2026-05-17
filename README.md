@@ -79,7 +79,7 @@ Feb 2025 - Apr 2025
 - Collaborated via GitHub for version control, managing design iterations and merging team contributions across sprints.
 
 ---
-## Currently Learning
+## 🌱 Currently Learning
 
 - AI Integration — embedding AI-powered features into full-stack applications
 - CI/CD — learning to automate builds and deployments with GitHub Actions
